@@ -5,6 +5,14 @@
       "password": "$2b$12$U.gFLgSVcyg33NSPqVXVCOWaiexjaAqvvt0JS9NPfYwcmeuyF8Mfa"
     }
   ],
-  "licenses": [],
+  "licenses": [
+    {
+      "key": "5863abf9-9753-42b8-a171-928a9dd2ef4d",
+      "used": false,
+      "ip": null,
+      "last_used": null,
+      "created_at": "2025-05-22T17:46:36.910419"
+    }
+  ],
   "users": []
 }
