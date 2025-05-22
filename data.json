@@ -8,11 +8,17 @@
   "licenses": [
     {
       "key": "5863abf9-9753-42b8-a171-928a9dd2ef4d",
-      "used": false,
-      "ip": null,
-      "last_used": null,
+      "used": true,
+      "ip": "38.252.247.194",
+      "last_used": "2025-05-22T17:47:46.464512",
       "created_at": "2025-05-22T17:46:36.910419"
     }
   ],
-  "users": []
+  "users": [
+    {
+      "key": "5863abf9-9753-42b8-a171-928a9dd2ef4d",
+      "ip": "38.252.247.194",
+      "last_used": "2025-05-22T17:47:46.464512"
+    }
+  ]
 }
