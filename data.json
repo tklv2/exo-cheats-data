@@ -1,8 +1,8 @@
 {
   "admins": [
     {
-      "email": "admin@example.com",
-      "password": "$2b$12$hErCwGHvjXtvuWAOnCZZlOKB1z6UB48f7wceQVPi3HEvNslxWCuX6"
+      "username": "p1ae",
+      "password": "$2b$12$3uB8V7Z7G3e3b4U5z6W2N.9iK7y8L9m2N3o4P5q6R7s8T9u0V1w2X"
     }
   ],
   "licenses": [],
